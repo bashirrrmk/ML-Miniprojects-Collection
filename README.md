@@ -1,6 +1,6 @@
 # Machine Learning: Logistic Regression & Linear Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bashirrmk/ML/blob/main/logistic_linear_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bashirrmk/ML/blob/main/regression_vs_classification.ipynb)
 
 ## Project Overview
 
